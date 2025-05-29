@@ -1,6 +1,4 @@
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElMelchizedek&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## My Setup
